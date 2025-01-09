@@ -58,13 +58,6 @@
 <h1 align="center">Activity on GitHub</h1>
 <p align="center">
   <a href="https://github.com/DarkTwentyFive">      
-<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DarkTwentyFive&theme=tokyonight&hide_border=true&stroke=4837c9"/>
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ruben-david-roy&theme=tokyonight&hide_border=true&stroke=4837c9"/>
 </a> 
 </p>
-
-## Top Respositories
-  <p align="left">
-     <a href="https://github.com/DarkTwentyFive/NeuraNET-API-Playground"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=darktwentyfive&repo=NeuraNET-API-Playground&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/DarkTwentyFive/GrooveFM"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=darktwentyfive&repo=GrooveFM&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-   <a href="https://github.com/darktwentyfive/Calculator"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=darktwentyfive&repo=Calculator&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-  </p>
