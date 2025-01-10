@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ruben Roy! 👋</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20and%20Software%20Developer;PWA%20Developer;Android%20App%20Developer;CEO%20of%20NeuraNET&center=true&width=700&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Developer;Android%20App%20Developer;Web%20Developer;Physics%20Student;Robotics%20Enthusiast&center=true&width=700&height=45"></a>
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://shkspr.mobi/blog/wp-content/uploads/2015/02/loop2.gif">
