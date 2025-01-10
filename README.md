@@ -57,7 +57,7 @@
 
 <h1 align="center">Activity on GitHub</h1>
 <p align="center">
-  <a href="https://github.com/DarkTwentyFive">      
-<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ruben-david-roy&theme=tokyonight&hide_border=true&stroke=4837c9"/>
+  <a href="https://github.com/ruben-david-roy">      
+<img title="stats" alt="streak" src="https://nirzak-streak-stats.vercel.app/?user=ruben-david-roy&theme=shadow-purple&hide_border=true"/>
 </a> 
 </p>
