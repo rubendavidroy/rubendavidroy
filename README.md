@@ -3,25 +3,34 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Developer;Android%20App%20Developer;Web%20Developer;Physics%20Student;Robotics%20Enthusiast&center=true&width=700&height=45"></a>
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://shkspr.mobi/blog/wp-content/uploads/2015/02/loop2.gif">
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZ4b2N4N21pYnBuZ25wNDZ4Y3AzYmFpYng2M2E2bnJqOWRqZmY4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZJZS4VPcjlZtKwuX5n/giphy.gif">
 
 <h1 align="center">Contacts</h1>
-<h5 align="center">Below are a few links you can visit.</h5>
+<h5 align="center">For the full list, check out my portfolio!</h5>
 <p align="center">
   <a href="https://discordapp.com/users/879928606665637959"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@DarkTwentyFive"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="mailto:mail@ruben-roy.com">
+  <img alt="Email" title="Email me" src="https://img.shields.io/badge/-Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+  <a href="https://ruben-roy.com">
+  <img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-AEDFF7?style=for-the-badge&logoColor=white"/>
+</a>
+</a>
  </p>
 
-<h1 align="center">Languages</h1>
+<h1 align="center">Proficient Languages</h1>
 <p align="center"> 
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+<h1 align="center">Learning Languages</h1>
+<p align="center"> 
   <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
   <img alt="SQL" src="https://img.shields.io/badge/SQL-%23336791.svg?&style=for-the-badge&logo=SQL&logoColor=white"/>
   <img alt="C#" src="https://img.shields.io/badge/CSharp-%23239120.svg?&style=for-the-badge"/>
-  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 <h1 align="center">Frameworks and Libraries</h1>
@@ -42,7 +51,6 @@
   <img alt="Blender" src="https://img.shields.io/badge/Blender-%23F5792A.svg?&style=for-the-badge&logo=blender&logoColor=white"/>
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white"/>
   <img alt="Git" src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="Illustrator" src="https://img.shields.io/badge/Illustrator-%23FF9A00.svg?&style=for-the-badge&logo=adobe-illustrator&logoColor=white"/>
   <img alt="Linux" src="https://img.shields.io/badge/Linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white"/>
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img alt="MSSQL" src="https://img.shields.io/badge/MSSQL-%23CC2927.svg?&style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
