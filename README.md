@@ -12,7 +12,7 @@
   <a href="mailto:mail@ruben-roy.com">
   <img alt="Email" title="Email me" src="https://img.shields.io/badge/-Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-  <a href="https://ruben-roy.com">
+  <a href="https://www.ruben-roy.com">
   <img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-AEDFF7?style=for-the-badge&logoColor=white"/>
 </a>
 </a>
@@ -62,7 +62,7 @@
 
 <h1 align="center">Activity on GitHub</h1>
 <p align="center">
-  <a href="https://github.com/ruben-david-roy">      
-<img title="stats" alt="streak" src="https://nirzak-streak-stats.vercel.app/?user=ruben-david-roy&theme=shadow-purple&hide_border=true"/>
+  <a href="https://github.com/rubendavidroy">      
+<img title="stats" alt="streak" src="https://nirzak-streak-stats.vercel.app/?user=rubendavidroy&theme=shadow-purple&hide_border=true"/>
 </a> 
 </p>
