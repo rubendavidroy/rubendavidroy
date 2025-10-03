@@ -59,10 +59,3 @@
 </p>
 
 <br>
-
-<h1 align="center">Activity on GitHub</h1>
-<p align="center">
-  <a href="https://github.com/rubendavidroy">      
-<img title="stats" alt="streak" src="https://nirzak-streak-stats.vercel.app/?user=rubendavidroy&theme=shadow-purple&hide_border=true"/>
-</a> 
-</p>
